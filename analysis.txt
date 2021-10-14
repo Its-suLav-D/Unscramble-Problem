@@ -1,0 +1,26 @@
+1. Task 0:
+    The run time analysis for Task 0 would be O(N) because I have a for loop that goes and Check's
+    each and every item in the list in the Worst Case Case. Moreover, we ignore the coefficient term 
+    so instead of (n+n=2n) we are left with O(N)
+
+2. Task 1:
+    The run time analysis for Task 1 would be O(N) -linear time because it touches all the item in the list. 
+    So linear Time O(N)
+    
+
+3. Task 2:
+    The run time analysis for Task 2 would be O(N)- Linear time because again it touches every item in the list 
+    and compares with it. So O(N)
+
+4. Task 3:
+    The run time analysic for Task 3 would be O(n^4 log(n)). I am not so sure about it, because its confusing. 
+
+
+
+5. Task 4: 
+    The run time anlysis for Task 4 would be O(N^2) - Quadratic time because, we have two loops
+    outer and inner loops, which performs O(N^2)
+
+
+
+
